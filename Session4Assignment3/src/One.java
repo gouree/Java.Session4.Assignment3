@@ -42,6 +42,6 @@ class A extends B
 	
 	public void hello()
 	{
-		A::test();
+		test();
 	}
 }
